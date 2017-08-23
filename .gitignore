@@ -1,0 +1,8 @@
+#Node Modules
+node_modules
+
+#visual studio setting
+.vscode
+
+#debug file
+npm-debug.log.1185184413
